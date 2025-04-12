@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero_carousel_CmDneU": {
@@ -6,34 +15,32 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-1-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-1.jpg",
+            "img_desktop": "shopify://shop_images/ChatGPT_Image_13_avr._2025_01_29_20.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
-            "btn_primary_text": "Get theme",
-            "btn_primary_url": "https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop",
-            "btn_secondary_text": "Learn more",
-            "btn_secondary_url": "https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop"
+            "subtitle": "ON VEND",
+            "title": "Montre de Luxe",
+            "description": "<p>Explorez une collection de montres exquises, où le luxe rencontre le discernement. </p>",
+            "btn_primary_text": "Voir nos montres",
+            "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop",
+            "btn_secondary_text": "En savoir plus",
+            "btn_secondary_url": "shopify://policies/privacy-policy"
           }
         },
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
-            "img_mobile": "shopify:\/\/shop_images\/lifestyle-2-mobile.jpg",
-            "img_desktop": "shopify:\/\/shop_images\/lifestyle-2.jpg",
+            "img_desktop": "shopify://shop_images/ChatGPT_Image_13_avr._2025_01_23_48.png",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Simple to Use, Easy to Customize",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.<\/p>",
-            "btn_primary_text": "Primary button",
+            "subtitle": "ON ACHÈTE",
+            "title": "Montre de Luxe",
+            "description": "<p>Nous rachetons vos montres au meilleur prix, avec transport sécurisé pris en charge par nos soins</p>",
+            "btn_primary_text": "Vendre une montre",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "En savoir plus",
             "btn_secondary_url": ""
           }
         }
@@ -85,14 +92,16 @@
         "border_color": "border-primary",
         "border_opacity": 100,
         "container_max_width": "",
-        "products": [],
+        "products": [
+          "rolex-gmt-master-ii-bruce-wayne-126710grnr"
+        ],
         "collection": "latest",
         "limit": 8,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
-        "header_title": "Featured Products",
+        "header_title": "Nos produits",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "<p>Découvrez l’ensemble de nos montres disponibles</p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
@@ -106,33 +115,6 @@
         "breakpoint_desktop": 4,
         "pt": 10,
         "pb": 11
-      }
-    },
-    "richtext_4miPYL": {
-      "type": "richtext",
-      "settings": {
-        "bg_color": "bg-primary",
-        "bg_opacity": 5,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 1,
-        "border_color": "border-primary",
-        "border_opacity": 100,
-        "container_max_width": "900",
-        "text_align": "text-center",
-        "title": "Richtext",
-        "title_font_size": "h3",
-        "description": "<p>Add on optional description for this section<\/p>",
-        "description_font_size": "fs-md",
-        "btn_primary_text": "Primary button",
-        "btn_primary_url": "",
-        "btn_primary_color": "btn-primary",
-        "btn_secondary_text": "Secondary button",
-        "btn_secondary_url": "",
-        "btn_secondary_color": "btn-secondary",
-        "pt": 12,
-        "pb": 12
       }
     },
     "richtext_AtYwxr": {
@@ -151,7 +133,7 @@
         "text_align": "text-center",
         "title": "Richtext",
         "title_font_size": "h2",
-        "description": "<p>Add on optional description for this section<\/p>",
+        "description": "<p>Add on optional description for this section</p>",
         "description_font_size": "fs-md",
         "btn_primary_text": "Primary button",
         "btn_primary_url": "",
@@ -159,95 +141,6 @@
         "btn_secondary_text": "Secondary button",
         "btn_secondary_url": "",
         "btn_secondary_color": "btn-light-white",
-        "pt": 11,
-        "pb": 11
-      }
-    },
-    "featured_collections_n3Br7m": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_rznnLq": {
-          "type": "collection",
-          "settings": {
-            "collection": "men",
-            "title": ""
-          }
-        },
-        "collection_KdHXk9": {
-          "type": "collection",
-          "settings": {
-            "collection": "women",
-            "title": ""
-          }
-        },
-        "collection_b7ELCB": {
-          "type": "collection",
-          "settings": {
-            "collection": "children",
-            "title": ""
-          }
-        },
-        "collection_XRMXNt": {
-          "type": "collection",
-          "settings": {
-            "collection": "babies",
-            "title": ""
-          }
-        },
-        "collection_fQ9QDf": {
-          "type": "collection",
-          "settings": {
-            "collection": "latest",
-            "title": ""
-          }
-        },
-        "collection_kRQqkR": {
-          "type": "collection",
-          "settings": {
-            "collection": "sale",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_rznnLq",
-        "collection_KdHXk9",
-        "collection_b7ELCB",
-        "collection_XRMXNt",
-        "collection_fQ9QDf",
-        "collection_kRQqkR"
-      ],
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container_max_width": "",
-        "header_title": "Featured Collections",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
-        "header_description_font_size": "",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": false,
-        "slider_autoplay": 0,
-        "collection_card_text_align": "text-center",
-        "collection_card_img_orientation": "ratio-16x9",
-        "collection_card_img_border": "img-thumbnail",
-        "collection_card_show_title": true,
-        "collection_card_title_font_size": "fs-md",
-        "collection_card_title_position": "collection-card-title-normal",
-        "collection_card_show_product_count": true,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
         "pt": 11,
         "pb": 11
       }
@@ -267,49 +160,6 @@
     },
     "media_with_text_xTY8gi": {
       "type": "media-with-text",
-      "blocks": {
-        "row_JkMDbM": {
-          "type": "row",
-          "settings": {
-            "bg_color": "bg-secondary",
-            "bg_opacity": 5,
-            "bg_gradient": "",
-            "text_color": "text-body",
-            "border_top_width": 1,
-            "border_bottom_width": 1,
-            "border_color": "border-primary",
-            "border_opacity": 10,
-            "media_align_desktop": "",
-            "media_border": "img-thumbnail",
-            "img_orientation": "ratio-9x16",
-            "video": "",
-            "video_ratio": "adapt",
-            "video_autoplay": true,
-            "video_loop": true,
-            "video_muted": true,
-            "video_controls": true,
-            "external_video": "",
-            "text_align_mobile": "text-center",
-            "text_align_desktop": "text-desktop-start",
-            "subtitle": "Optional Subtitle",
-            "title": "Media with text",
-            "title_font_size": "h3",
-            "description": "<p>Either show an image, video (MP4) or an external video (YouTube). If no text block is shown, the media will take full section's space.<\/p>",
-            "description_font_size": "fs-md",
-            "btn_primary_text": "Primary button",
-            "btn_primary_url": "",
-            "btn_primary_color": "btn-primary",
-            "btn_secondary_text": "Secondary button",
-            "btn_secondary_url": "",
-            "btn_secondary_color": "btn-outline-primary",
-            "pt": 10,
-            "pb": 10
-          }
-        }
-      },
-      "block_order": [
-        "row_JkMDbM"
-      ],
       "settings": {
         "container_max_width": ""
       }
@@ -320,17 +170,17 @@
         "item_qp7jPa": {
           "type": "item",
           "settings": {
-            "title": "First Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
-            "btn_text": "Learn more",
+            "title": "Contrat de transport et de stockage avec Brink’s",
+            "description": "<p>Transport, sécurité et stockage assurés par Brink’s sans frais pour le vendeur ou l’acheteur, garantissant une transaction protégée de bout en bout.</p>",
+            "btn_text": "En savoir plus",
             "btn_url": ""
           }
         },
         "item_h9wANh": {
           "type": "item",
           "settings": {
-            "title": "Second Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "title": "Authentifiée par WatchCSA",
+            "description": "<p>Certification authentique assurée par Watch CSA, garantissant l’authenticité et la conformité de chaque montre avant la transaction.</p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -338,17 +188,8 @@
         "item_hAPJWn": {
           "type": "item",
           "settings": {
-            "title": "Third Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_9EkHYL": {
-          "type": "item",
-          "settings": {
-            "title": "Fourth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "title": "Modalités de remboursement",
+            "description": "<p>En cas de non-conformité du produit avec le contrat de vente ou le certificat d’authenticité, les retours sont acceptés sous 15 jours suivant la réception.</p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -357,7 +198,7 @@
           "type": "item",
           "settings": {
             "title": "Fifth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -366,7 +207,7 @@
           "type": "item",
           "settings": {
             "title": "Sixth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.<\/p>",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
             "btn_text": "Learn more",
             "btn_url": ""
           }
@@ -376,7 +217,6 @@
         "item_qp7jPa",
         "item_h9wANh",
         "item_hAPJWn",
-        "item_9EkHYL",
         "item_iKKgHJ",
         "item_Je3xNm"
       ],
@@ -390,9 +230,9 @@
         "border_color": "border-body",
         "border_opacity": 100,
         "container_max_width": "",
-        "header_title": "Card Slider",
+        "header_title": "Nos services",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
@@ -421,29 +261,6 @@
         "pb": 11
       }
     },
-    "html_Y7Cp8x": {
-      "type": "html",
-      "settings": {
-        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}<\/b><\/p>\n\n<iframe class=\"rounded\" src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d5458.176837636101!2d7.264440042281333!3d43.69609386612476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddaa162b4a50b%3A0x77566707bed909ce!2sFontaine%20du%20Soleil!5e0!3m2!1sen!2s!4v1651756644654!5m2!1sen!2s\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 1,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 10,
-        "container": "container",
-        "container_max_width": "",
-        "text_align": "text-center",
-        "header_title": "HTML and Liquid",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
-        "header_description_font_size": "fs-md",
-        "pt": 10,
-        "pb": 10
-      }
-    },
     "faq_7TT7z4": {
       "type": "faq",
       "blocks": {
@@ -451,42 +268,35 @@
           "type": "item",
           "settings": {
             "title": "Where do you ship?",
-            "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.<\/p>"
+            "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.</p>"
           }
         },
         "item_EemRD3": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to receive my order",
-            "description": "<p>This depends on whether it is an International or a Domestic order. All orders within the U.S. are considered domestic orders and they are shipped and delivered within 2-5 business days. Please see International Orders for more details.<\/p>"
+            "title": "Comment les montres sont-elles transportées en toute sécurité ?",
+            "description": "<p>Chaque montre est prise en charge par <strong>Brink’s</strong>, un acteur mondialement reconnu pour le transport de biens de valeur. De l’enlèvement à la livraison, la montre transite dans un circuit sécurisé, sous surveillance permanente, avec un personnel formé à la manipulation d’objets de luxe. Ce service inclut également un stockage sécurisé dans des coffres certifiés si une étape intermédiaire est nécessaire. <strong>Aucun frais n’est à la charge du vendeur ou de l’acheteur.</strong></p>"
           }
         },
         "item_jyLYkB": {
           "type": "item",
           "settings": {
-            "title": "What payment methods do you support?",
-            "description": "<p>We accept PayPal, Visa, MasterCard, Discover, and American Express but feel free to contact us for other payment options.<\/p>"
+            "title": "Les montres sont-elles certifiées ?",
+            "description": "<p>Oui, avant toute mise en vente ou achat, chaque pièce est soumise à une <strong>vérification approfondie par WatchCSA</strong>, organisme indépendant spécialisé dans l’expertise horlogère. Cette certification couvre :</p><ul><li>L’authenticité de la montre (mouvement, boîtier, cadran, etc.)</li><li>La correspondance entre la montre et sa documentation (numéros de série, papiers, boîte)</li><li>Son état général et sa conformité par rapport aux standards du fabricant</li><li><strong>Un certificat officiel</strong> est ensuite émis, servant de preuve irréfutable d’authenticité.</li></ul>"
           }
         },
         "item_pHCJRG": {
           "type": "item",
           "settings": {
-            "title": "How can I track my order?",
-            "description": "<p>We will send tracking information to the e-mail address associated with your order once the item has shipped. If you have not received your tracking information and it has been over 2 business day, please contact us at (012) 123 - 4567<\/p>"
+            "title": "Puis-je retourner une montre si elle ne correspond pas à la description ?",
+            "description": "<p>Oui, si le produit ne respecte pas les engagements du <strong>contrat de vente</strong> ou les éléments indiqués sur le <strong>certificat d’authenticité</strong>, un retour est accepté sous <strong>15 jours</strong> à compter de la réception.</p><p><br/>Le produit devra être retourné dans son état d’origine, avec tous les accessoires, documents, et sans avoir été porté. Après vérification, un <strong>remboursement intégral</strong> ou un échange pourra être proposé selon votre préférence.</p>"
           }
         },
         "item_kWLWrb": {
           "type": "item",
           "settings": {
-            "title": "Can I order as a gift for someone else?",
-            "description": "<p>When ordering as a gift for someone, be sure to enter in your email address to receive all summary information but enter in the recipient’s name and shipping information. We will be sure to keep all prices and receipts out of the package.<\/p>"
-          }
-        },
-        "item_dizKmG": {
-          "type": "item",
-          "settings": {
-            "title": "How can I get a refund for my order?",
-            "description": "<p>If for any reason you are not completely satisfied with your purchase, within 30 days of placing your order, we will refund you for your purchase with no questions asked.<\/p>"
+            "title": "Quels sont les frais pour le transport et la sécurisation de la montre ?",
+            "description": "<p><strong>Aucun frais</strong> ne vous est imputé. Grâce à notre collaboration avec <strong>Brink’s</strong>, le service complet de logistique (collecte, sécurisation, transport, stockage, assurance) est entièrement couvert par notre structure. Cela vous permet de réaliser une transaction haut de gamme, sans surcoût.</p>"
           }
         }
       },
@@ -495,8 +305,7 @@
         "item_EemRD3",
         "item_jyLYkB",
         "item_pHCJRG",
-        "item_kWLWrb",
-        "item_dizKmG"
+        "item_kWLWrb"
       ],
       "settings": {
         "bg_color": "bg-body",
@@ -509,9 +318,9 @@
         "border_opacity": 100,
         "container_max_width": "",
         "open_first_item": true,
-        "header_title": "FAQs",
+        "header_title": "FAQ",
         "header_title_font_size": "h2",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "",
         "header_description_font_size": "fs-md",
         "pt": 2,
         "pb": 11
@@ -524,8 +333,7 @@
           "type": "item",
           "settings": {
             "title": "First Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -534,8 +342,7 @@
           "type": "item",
           "settings": {
             "title": "Second Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -544,8 +351,7 @@
           "type": "item",
           "settings": {
             "title": "Third Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -554,8 +360,7 @@
           "type": "item",
           "settings": {
             "title": "Fourth Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -564,8 +369,7 @@
           "type": "item",
           "settings": {
             "title": "Fifth Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -574,8 +378,7 @@
           "type": "item",
           "settings": {
             "title": "Sixth Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"<\/p>",
-            "img": "shopify:\/\/shop_images\/icon-user.svg",
+            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
             "author": "Author's Name",
             "author_subtitle": "Verified Customer"
           }
@@ -589,6 +392,7 @@
         "item_BUkPE7",
         "item_DtBFNc"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "bg-primary",
         "bg_opacity": 5,
@@ -601,7 +405,7 @@
         "container_max_width": "",
         "header_title": "Testimonials",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
+        "header_description": "<p>Add on optional description for this section</p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
@@ -628,45 +432,6 @@
         "pb": 12
       }
     },
-    "blog_slider_UUweWT": {
-      "type": "blog-slider",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "container_max_width": "",
-        "header_title": "Latest Posts",
-        "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section<\/p>",
-        "header_description_font_size": "fs-md",
-        "slider_speed": 300,
-        "slider_navigation": true,
-        "slider_pagination": true,
-        "slider_pagination_type": "bullets",
-        "slider_scrollbar": true,
-        "slider_partial_slides_mobile": true,
-        "slider_autoplay": 0,
-        "blog": "news",
-        "limit": 8,
-        "article_card_text_align": "text-start",
-        "article_card_img_orientation": "ratio-16x9",
-        "article_card_img_border": "img-thumbnail",
-        "article_card_title_size": "fs-xl",
-        "article_card_meta": true,
-        "article_card_tags": true,
-        "article_card_excerpt": false,
-        "breakpoint_mobile": 1,
-        "breakpoint_tablet": 2,
-        "breakpoint_desktop": 3,
-        "pt": 10,
-        "pb": 12
-      }
-    },
     "separator_pMbxtB": {
       "type": "separator",
       "disabled": true,
@@ -684,16 +449,12 @@
   "order": [
     "hero_carousel_CmDneU",
     "featured_products_nXJKQn",
-    "richtext_4miPYL",
     "richtext_AtYwxr",
-    "featured_collections_n3Br7m",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
     "card_slider_BFzjjF",
-    "html_Y7Cp8x",
     "faq_7TT7z4",
     "testimonials_eFtnyC",
-    "blog_slider_UUweWT",
     "separator_pMbxtB"
   ]
 }
