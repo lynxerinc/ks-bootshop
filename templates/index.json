@@ -95,7 +95,8 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-          "rolex-gmt-master-ii-bruce-wayne-126710grnr"
+          "rolex-gmt-master-ii-bruce-wayne-126710grnr",
+          "sans-titre-15avr-_14-06"
         ],
         "collection": "latest",
         "limit": 8,
@@ -195,32 +196,12 @@
             "btn_text": "Learn more",
             "btn_url": ""
           }
-        },
-        "item_iKKgHJ": {
-          "type": "item",
-          "settings": {
-            "title": "Fifth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_Je3xNm": {
-          "type": "item",
-          "settings": {
-            "title": "Sixth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
         }
       },
       "block_order": [
         "item_qp7jPa",
         "item_h9wANh",
-        "item_hAPJWn",
-        "item_iKKgHJ",
-        "item_Je3xNm"
+        "item_hAPJWn"
       ],
       "settings": {
         "bg_color": "bg-body",
@@ -266,13 +247,6 @@
     "faq_7TT7z4": {
       "type": "faq",
       "blocks": {
-        "item_AgKJ3m": {
-          "type": "item",
-          "settings": {
-            "title": "Where do you ship?",
-            "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.</p>"
-          }
-        },
         "item_EemRD3": {
           "type": "item",
           "settings": {
@@ -303,7 +277,6 @@
         }
       },
       "block_order": [
-        "item_AgKJ3m",
         "item_EemRD3",
         "item_jyLYkB",
         "item_pHCJRG",
