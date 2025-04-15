@@ -203,6 +203,7 @@
         "item_h9wANh",
         "item_hAPJWn"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "bg-body",
         "bg_opacity": 100,
