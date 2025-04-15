@@ -20,11 +20,11 @@
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "ON VEND",
+            "subtitle": "NOUS VENDONS",
             "title": "Montre de Luxe",
             "description": "<p>Explorez une collection de montres exquises, où le luxe rencontre le discernement. </p>",
             "btn_primary_text": "Voir nos montres",
-            "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop",
+            "btn_primary_url": "shopify://collections/all",
             "btn_secondary_text": "En savoir plus",
             "btn_secondary_url": "shopify://policies/privacy-policy"
           }
