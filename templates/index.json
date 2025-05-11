@@ -95,11 +95,12 @@
         "border_opacity": 100,
         "container_max_width": "",
         "products": [
-          "rolex-datejust-126334",
-          "rolex-gmt-master-ii-bruce-wayne-126710grnr",
-          "rolex-sky-dweller-rolesor-jaune-366933"
+          "rolex-daytona-126500",
+          "rolex-datejust-41-roman-dial-126334",
+          "rolex-datejust-41-126334-full-set-etat-comme-neuve-9-10-copie",
+          "rolex-gmt-master-ii-bruce-wayne-126710grnr"
         ],
-        "collection": "latest",
+        "collection": "frontpage",
         "limit": 8,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
